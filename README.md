@@ -1,5 +1,5 @@
 # hw_04 Reddit Bots!
-**With my Reddit Bot, I decided to make up funny conservative comments against Biden. I also included some language supporting other former presidents.**
+**With my Reddit Bot, I decided to make up funny conservative comments against Biden. I also included some language supporting other former presidents, such as Trump, Bush, and Clinton.**
 <br>
 <br>
 This is my favorite
@@ -9,7 +9,7 @@ This is my favorite
 I love how it started off as a (somewhat) acceptable conversation about some people's stances on politicians and gets weirder which each comment. Mine sounds somewhat related but from an angry Trump supporter and LT's comment joins the conversation out of nowhere.
 <br>
 <br>
-This was the output of the final bot_counter.py run!
+## This was the output of the final bot_counter.py run!
 ```
 len(comments)= 473
 len(top_level_comments)= 226
@@ -21,7 +21,19 @@ len(valid_replies)= 246
 valid_comments= 426
 ========================================
 ```
+## This is what I think my score should be based on the point system!
 
+*Required Tasks*
+1. Each task in `bot.py` 6 tasks * 3 points/task = 18pts
+2. This GitHub repo = 2pts
 
-4. **I believe that I've completed the required tasks, Credit 1, 2, 3, 4, 6, and 7 (both parts); did NOT complete Credit 5 (Bot Army) and Markovify. My estimated score is 34/30. However, withour the comments on the banned r/BotTown, my score would be 32/30 as I completed Credit 1, 2, 4, 6, and 7 (both pars).**
+*Optional Tasks*
+1. 100 comments = 2pts
+2. 500 comments = 2pts
+3. 1000 comments = 2pts
+4. New submission posts = 2pts
+5. Bot replies to most upvoted = 2pts
+6. Up/downvotes comments for/against Joe Biden = 2pts <br> Used TextBlob sentiment analysis = 2pts
+
+**Total = 34pts**
 </br>
