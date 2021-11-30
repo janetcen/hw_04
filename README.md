@@ -11,14 +11,14 @@ I love how it started off as a (somewhat) acceptable conversation about some peo
 <br>
 ## This was the output of the final bot_counter.py run!
 ```
-len(comments)= 473
-len(top_level_comments)= 226
-len(replies)= 247
-len(valid_top_level_comments)= 180
-len(not_self_replies)= 246
-len(valid_replies)= 246
+len(comments)= 1000
+len(top_level_comments)= 0
+len(replies)= 1000
+len(valid_top_level_comments)= 0
+len(not_self_replies)= 996
+len(valid_replies)= 946
 ========================================
-valid_comments= 426
+valid_comments= 946
 ========================================
 ```
 ## This is what I think my score should be based on the point system!
@@ -30,7 +30,7 @@ valid_comments= 426
 *Optional Tasks*
 1. 100 comments = 2pts
 2. 500 comments = 2pts
-3. 1000 comments = 2pts
+3. 1000 comments = 2pts (Similar to others in the class, no matter how long I run my `bot.py` program I couldn't reach 1000. And when I kept running `bot_counter.py`, the number of comments would go down.)
 4. New submission posts = 2pts
 5. Bot replies to most upvoted = 2pts
 6. Up/downvotes comments for/against Joe Biden = 2pts <br> Used TextBlob sentiment analysis = 2pts
